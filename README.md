@@ -1,4 +1,4 @@
-# Gravity-Actuated 3D Phone Mount (Suzuki Jimny)
+# Sistem de suport suport telefon, cu prindere de tip mengina pentru autoturism Suzuki Jimny
 **Autor:** Cotofan Teodor Dumitru
 
 ## 📱 Descriere Proiect
